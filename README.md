@@ -1,10 +1,13 @@
-# flutter_taxi_app
+# Flutter Taxi App
 
-A new Flutter project.
+โปรแกรมคำนวณค่าโดยสารแท็กซี่ตามอัตราค่าโดยสารประเทศไทย
 
-## Getting Started
+## การคำนวณ
+- ค่าเริ่มต้น 35 บาท
+- คิดตามระยะทางแบบขั้นบันได
+- ค่ารถติด 3 บาท/นาที
 
-This project is a starting point for a Flutter application.
+Developed by: Chatchawan Srimuang STID:6635410021
 
 A few resources to get you started if this is your first Flutter project:
 
